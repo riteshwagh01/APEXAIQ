@@ -1,5 +1,4 @@
-##What does ApexAIQ do? what industry problem does it solve =>
-
+##What does ApexAIQ do? what industry problem does it solve 
 ApexAIQ is a software as a service (SaaS) IT Asset Assurance and cyber Risk Management platform. It helps organiz^n discover, monitor and assess all of their IT assets across on-premises, cloud & co-located environment to reduce operational & cybersecurity risk.
 
 **-> what does it do?**
