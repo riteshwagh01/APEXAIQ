@@ -32,9 +32,9 @@ The script automatically launches the Chrome browser, opens a webpage, locates a
 ## Project Structure
 
 ```
-Web-Scraping/
+DAY6/Assignment/
 │
-├── scraper.py
+├── web_scraper.py
 ├── output.csv
 └── README.md
 ```
